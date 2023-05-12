@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My name is Gabriel, I'm a 25 years old developer currently working on mobile applications.
+### My name is Gabriel, I'm a software developer currently working on mobile applications.
 #### I'm passionate about technology, and love solving problems and challenges with it.
 
 - 🔭 I’m currently working on mobile development with Flutter
